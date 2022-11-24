@@ -2,4 +2,4 @@
 - 👀 I'm a newbie to programming and looking to learn mostly web development
 - 🌱 I’m currently learning javascript, html and css
 - 💞️ I’m looking to collaborate on any project that is within my scope
-- 📫 You can contact me through github\
+- 📫 You can contact me through github
