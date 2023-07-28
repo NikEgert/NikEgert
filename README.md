@@ -1,2 +1,1 @@
 - 👋 Hey Guys, I’m @NikEgert
-- 🌱 I'm a newbie to programming
