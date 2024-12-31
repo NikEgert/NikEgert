@@ -9,8 +9,11 @@
 <table>
   <tr>
     <td><strong>Join me on social media:</strong></td>
-    <td><a href="https://www.linkedin.com/in/nikita-egert-3795b61b2/"><img src="https://img.shields.io/badge/Linkedin-Nikita_Egert-blue
-    " alt="Follow on LinkedIn"/></a></td>
+    <td>
+      <a href="https://www.linkedin.com/in/nikita-egert-3795b61b2/">
+        <img src="https://img.shields.io/badge/LinkedIn-Nikita_Egert-blue" alt="Follow on LinkedIn" />
+      </a>
+    </td>
   </tr>
 </table>
 
