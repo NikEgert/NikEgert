@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Viewer! 👋</h1>
+<h1 align="center">Hello! 👋</h1>
 
 - 💻 I’m an IT enthusiast looking to broaden my knowledge in system administration and database management.
 - 🎓 I’m currently studying a Bachelor of Advanced Computing at the University of Sydney.
